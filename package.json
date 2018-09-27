@@ -1,0 +1,17 @@
+{
+  "name": "bfs",
+  "version": "0.0.0",
+  "description": "Implementation of BFS.",
+  "author": "Yaroslav Kuts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "mocha bfs.spec.js"
+  },
+  "dependencies": {
+    "mocha": ""
+  }
+}
